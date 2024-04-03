@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>BeihaiYao</groupId>
-    <artifactId>03042024</artifactId>
+    <artifactId>Scala-projet</artifactId>
     <version>1.2</version>
 
     <properties>
@@ -105,7 +105,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.https://github.com/BeihaiYao/Scala-projet/tree/main</url>
+            <url>https://maven.pkg.https://github.com/BeihaiYao/Scala-projet</url>
         </repository>
     </distributionManagement>
 </project>
